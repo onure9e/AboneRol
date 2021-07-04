@@ -1,0 +1,15 @@
+{
+  "name": "abonerol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "run": "node Bot.js"
+  },
+  "keywords": [],
+  "author": "Onurege",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nukleon": "0.0.2"
+  }
+}
